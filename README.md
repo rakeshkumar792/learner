@@ -1,2 +1,1 @@
-# learner
-datascience
+# simple prediction
